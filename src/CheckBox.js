@@ -1,3 +1,4 @@
+//Checkbox Component
 const CheckBox = ({ onParamChange }) => {
   return (
     <label className="checkbox">
