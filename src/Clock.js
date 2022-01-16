@@ -14,8 +14,8 @@ const Clock = () => {
   const [secondHandVisible, setSecondHandVisible] = useState(true);
 
   //Get Current Hour
-  //let currentTime = 10; //Uncomment to check if dynamic styling is working.
-  const currentTime = new Date().getHours();
+  let currentTime = 18; //Uncomment to check if dynamic styling is working.
+  // const currentTime = new Date().getHours();
 
   //Clock Face Background Color
   const [style, setStyle] = useState(
