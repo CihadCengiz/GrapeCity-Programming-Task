@@ -2,6 +2,6 @@
 
 ### `npm start`
 
-![alt text](https://github.com/[CihadCengiz]/[grapecity-task]/blob/[master]/White-background.png?raw=true)
+![Black Background](https://github.com/CihadCengiz/GrapeCity-Programming-Task/blob/master/src/images/Black-Background.png?raw=true)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![White Background](https://github.com/CihadCengiz/GrapeCity-Programming-Task/blob/master/src/images/White-Background.png?raw=true)
