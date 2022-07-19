@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GrapeCity-Programming-Task/static/css/main.db82d68d.css",
+    "main.js": "/GrapeCity-Programming-Task/static/js/main.9a19e2d3.js",
+    "index.html": "/GrapeCity-Programming-Task/index.html",
+    "main.db82d68d.css.map": "/GrapeCity-Programming-Task/static/css/main.db82d68d.css.map",
+    "main.9a19e2d3.js.map": "/GrapeCity-Programming-Task/static/js/main.9a19e2d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db82d68d.css",
+    "static/js/main.9a19e2d3.js"
+  ]
+}
